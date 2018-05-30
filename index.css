@@ -1,0 +1,43 @@
+p {
+  text-align: center;
+  color: green
+}
+
+#p1 {
+  text-align: center;
+  color: orange
+}
+
+#p2 {
+  text-align: center;
+  color: pink
+}
+
+#h1 {
+  text-align: center;
+  color: green
+}
+
+#navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#navItem {
+    float: left;
+}
+
+#navLink {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
